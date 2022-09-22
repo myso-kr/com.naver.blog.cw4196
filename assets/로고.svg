@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="32" viewBox="0 0 420 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 16px;
+        fill: #bbb;
+        text-anchor: middle;
+        font-family: S-CoreDream-5Medium, "S-Core Dream";
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <path id="선_1" data-name="선 1" class="cls-1" d="M20,17V16H85v1H20Z"/>
+  <path id="선_1-2" data-name="선 1" class="cls-1" d="M335,16V15h65v1H335Z"/>
+  <text id="개발자_최원의_팬이되어주세요_" data-name="개발자 최원의 팬이되어주세요 " class="cls-2" x="212.667" y="22.25"><tspan x="212.667">개발자 최원의 팬이되어주세요 </tspan></text>
+</svg>
